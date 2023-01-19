@@ -1,0 +1,18 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/config.2.0.schema.json",
+  "version": "2.0",
+  "bundles": {
+    "sand-box-web-part": {
+      "components": [
+        {
+          "entrypoint": "./lib/webparts/sandBox/SandBoxWebPart.js",
+          "manifest": "./src/webparts/sandBox/SandBoxWebPart.manifest.json"
+        }
+      ]
+    }
+  },
+  "externals": {},
+  "localizedResources": {
+    "SandBoxWebPartStrings": "lib/webparts/sandBox/loc/{locale}.js"
+  }
+}

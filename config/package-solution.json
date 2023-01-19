@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "2023-react-spfx-sandbox-client-side-solution",
+    "id": "cc866414-6604-4734-a7c0-50ef89d807c7",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.16.1"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "2023-react-spfx-sandbox description"
+      },
+      "longDescription": {
+        "default": "2023-react-spfx-sandbox description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "2023-react-spfx-sandbox Feature",
+        "description": "The feature that activates elements of the 2023-react-spfx-sandbox solution.",
+        "id": "29856627-8a50-465a-9324-81ba23926d19",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/2023-react-spfx-sandbox.sppkg"
+  }
+}

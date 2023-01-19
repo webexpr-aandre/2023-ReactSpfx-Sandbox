@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "16.13.0",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.4.1"
+    },
+    "version": "1.16.1",
+    "libraryName": "2023-react-spfx-sandbox",
+    "libraryId": "cc866414-6604-4734-a7c0-50ef89d807c7",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "2023-react-spfx-sandbox",
+    "solutionShortDescription": "2023-react-spfx-sandbox description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}
